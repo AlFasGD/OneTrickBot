@@ -6,6 +6,10 @@ secrets.txt
 ##
 ## Get latest from https://github.com/github/gitignore/blob/master/VisualStudio.gitignore
 
+# JetBrains Rider
+.idea/
+*.sln.iml
+
 # User-specific files
 *.rsuser
 *.suo
